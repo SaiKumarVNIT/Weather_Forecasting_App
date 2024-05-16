@@ -13,7 +13,7 @@ with st.sidebar:
     # language
     selected_language = st.selectbox(
         'Select A Language',
-        ("English", "Swahili", "French"))
+        ("English", "Hindi", "Telugu","German","French"))
 
     # json_result_fields
     traits = st.multiselect(
