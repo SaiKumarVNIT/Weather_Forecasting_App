@@ -15,3 +15,9 @@ This project is a weather application that provides real-time and forecasted wea
 
    ```sh
    git clone https://github.com/yourusername/weather-app.git
+   
+## Install dependencies:
+pip install -r requirements.txt
+
+## Run the application:
+streamlit run app.py
