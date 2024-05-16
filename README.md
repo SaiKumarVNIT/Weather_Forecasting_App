@@ -14,7 +14,7 @@ This project is a weather application that provides real-time and forecasted wea
 1. Clone the repository:
 
    ```sh
-   [git clone https://github.com/yourusername/weather-app.git](https://github.com/SaiKumarVNIT/Weather_Forecasting_App.git)
+   https://github.com/SaiKumarVNIT/Weather_Forecasting_App.git
    
 ## Install dependencies:
 pip install -r requirements.txt
